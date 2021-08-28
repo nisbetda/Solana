@@ -10,6 +10,10 @@ Steps to run
 Enjoy the code
 -----------------------------------------------------------------------------------------------------------------------------
 
-SOL Tip Jar: 7m2B4iByQe6cFx95uF3rfLvZNvF1SC6J69ryVLuRZyBB
+SOL Tip Jar: 
+7m2B4iByQe6cFx95uF3rfLvZNvF1SC6J69ryVLuRZyBB
+
+BTC Tip Jar:
+33ByQE4Mjy8j5TRyvaho8C8BuMkfsfo1cQ
 
 -----------------------------------------------------------------------------------------------------------------------------
