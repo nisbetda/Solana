@@ -5,7 +5,12 @@ import re
 
 
 attribute_database = {}
-collection_name = "sollamasgraves"  # you can easily change the collection name here
+collection_name = "sollamasgraves"  # copy and paste the the collection name here
+#Solanart Collections 
+# degenape (Degen Ape)
+# sollamas-gen2 (Sollamas)
+# boldbadgers (Bold Badgers)
+
 output_file = os.getcwd() + '/sollamasgraves_price_data.csv'
 
 
